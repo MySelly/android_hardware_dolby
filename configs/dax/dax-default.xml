@@ -319,7 +319,7 @@
         <virtualizer-enable value="false"/>
         <bass-enhancer-enable value="true"/>
         <virtual-bass-process-enable value="true"/>
-        <hearing-protection-enable value="false"/>
+        <hearing-protection-enable value="true"/>
         <hearing-protection-rms-averaging-time-win-len value="6"/>
         <hearing-protection-rms-attenuation-target value="-256"/>
         <hearing-protection-attenuation-attack-time value="900"/>
@@ -348,7 +348,7 @@
         <virtualizer-enable value="false"/>
         <bass-enhancer-enable value="true"/>
         <virtual-bass-process-enable value="false"/>
-        <hearing-protection-enable value="false"/>
+        <hearing-protection-enable value="true"/>
         <hearing-protection-rms-averaging-time-win-len value="6"/>
         <hearing-protection-rms-attenuation-target value="-256"/>
         <hearing-protection-attenuation-attack-time value="900"/>
@@ -377,7 +377,7 @@
         <virtualizer-enable value="false"/>
         <bass-enhancer-enable value="false"/>
         <virtual-bass-process-enable value="false"/>
-        <hearing-protection-enable value="false"/>
+        <hearing-protection-enable value="true"/>
         <hearing-protection-rms-averaging-time-win-len value="6"/>
         <hearing-protection-rms-attenuation-target value="-256"/>
         <hearing-protection-attenuation-attack-time value="900"/>
@@ -509,15 +509,15 @@
         <surround-decoder-enable value="true"/>
         <surround-boost value="0"/>
         <volmax-boost value="64"/>
-        <volume-leveler-enable value="true"/>
+        <volume-leveler-enable value="false"/>
         <volume-leveler-amount value="0"/>
         <volume-leveler-in-target value="-256"/>
         <volume-leveler-out-target value="-256"/>
         <graphic-equalizer-enable value="true"/>
         <virtualizer-enable value="false"/>
-        <bass-enhancer-enable value="false"/>
+        <bass-enhancer-enable value="true"/>
         <virtual-bass-process-enable value="true"/>
-        <hearing-protection-enable value="false"/>
+        <hearing-protection-enable value="enable"/>
         <hearing-protection-rms-averaging-time-win-len value="6"/>
         <hearing-protection-rms-attenuation-target value="-256"/>
         <hearing-protection-attenuation-attack-time value="900"/>
@@ -545,8 +545,8 @@
         <graphic-equalizer-enable value="true"/>
         <virtualizer-enable value="false"/>
         <bass-enhancer-enable value="true"/>
-        <virtual-bass-process-enable value="false"/>
-        <hearing-protection-enable value="false"/>
+        <virtual-bass-process-enable value="true"/>
+        <hearing-protection-enable value="true"/>
         <hearing-protection-rms-averaging-time-win-len value="6"/>
         <hearing-protection-rms-attenuation-target value="-256"/>
         <hearing-protection-attenuation-attack-time value="900"/>
