@@ -2,9 +2,9 @@
 <resources>
 
     <string name="dolby_title">Dolby Atmos</string>
-    <string name="dolby_enable">Dolby Atmos Kullan</string>
+    <string name="dolby_enable">Dolby Atmosu Kullan</string>
     <string name="dolby_profile_title">Bir profil seçin</string>
-    <string name="dolby_preset">Grafik ekolayzer</string>
+    <string name="dolby_preset">Grafik ekolayzır</string>
     <string name="dolby_off">Kapalı</string>
     <string name="dolby_on">Açık</string>
     <string name="dolby_low">Düşük</string>
@@ -18,14 +18,21 @@
     <string name="dolby_adv_settings_footer">Gelişmiş ayarları göstermek için farklı bir profil seçin.</string>
     <string name="dolby_bass_enhancer">Bas güçlendirici</string>
     <string name="dolby_dialogue_enhancer">Diyalog güçlendirici</string>
-    <string name="dolby_spk_virtualizer">Hoparlör çevresel sanallaştırıcı</string>
-    <string name="dolby_hp_virtualizer">Kulaklık çevresel sanallaştırıcı</string>
-    <string name="dolby_stereo_widening">Stereo genişletme</string>
+    <string name="dolby_spk_virtualizer">Hoparlör çevre sanallaştırıcısı</string>
+    <string name="dolby_hp_virtualizer">Kulaklık çevre sanallaştırıcısı</string>
     <string name="dolby_volume_leveler">Ses seviyesi dengeleyici</string>
+    <string name="dolby_bass_enhancer_summary">Daha derin baslar için düşük frekanslı sesleri güçlendirir</string>
+    <string name="dolby_dialogue_enhancer_summary">Seslerin ve konuşmanın netliğini artırır</string>
+    <string name="dolby_spk_virtualizer_summary">Hoparlörlerde sanal çevre sesi oluşturur</string>
+    <string name="dolby_hp_virtualizer_summary">Kulaklıklarda sanal çevre sesi oluşturur</string>
+    <string name="dolby_volume_leveler_summary">Tutarlı bir dinleme deneyimi için sesi dengeler</string>
     <string name="dolby_connect_headphones">Kulaklıkları bağlayın</string>
     <string name="dolby_reset_all">Profilleri sıfırla</string>
     <string name="dolby_reset_all_message">Bu, tüm profilleri fabrika varsayılanlarına sıfırlayacaktır.</string>
     <string name="dolby_reset_all_toast">Tüm profiller başarıyla sıfırlandı</string>
+    <string name="dolby_strength">Güç</string>
+    <string name="dolby_hp_virtualizer_dolby_strength">Çevre sanallaştırıcısı Gücü</string>
+    <string name="dolby_dialogue_enhancer_dolby_strength">Diyalog güçlendirici Gücü</string>
 
     <string name="dolby_profile_dynamic">Dinamik</string>
     <string name="dolby_profile_video">Film/Video</string>
@@ -46,8 +53,8 @@
     <string name="dolby_preset_custom">Özel</string>
 
     <string name="dolby_geq_slider_label_gain">Kazanç</string>
-    <string name="dolby_geq_preset">Ön Ayar</string>
-    <string name="dolby_geq_preset_name">Ön Ayar adı</string>
+    <string name="dolby_geq_preset">Ön ayar</string>
+    <string name="dolby_geq_preset_name">Ön ayar adı</string>
     <string name="dolby_geq_new_preset">Yeni ön ayar</string>
     <string name="dolby_geq_rename_preset">Ön ayarı yeniden adlandır</string>
     <string name="dolby_geq_delete_preset">Ön ayarı sil</string>
@@ -57,9 +64,8 @@
     <string name="dolby_geq_preset_name_exists">Ön ayar adı zaten var!</string>
     <string name="dolby_geq_preset_name_too_long">Ön ayar adı çok uzun!</string>
 
-    <string name="dolby_ieq">Akıllı ekolayzer</string>
+    <string name="dolby_ieq">Akıllı ekolayzır</string>
     <string name="dolby_balanced">Dengeli</string>
     <string name="dolby_warm">Sıcak</string>
     <string name="dolby_detailed">Ayrıntılı</string>
-
 </resources>
